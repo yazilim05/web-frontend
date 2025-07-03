@@ -1,0 +1,62 @@
+.carousel-item  img {
+    width: 100;
+    height: 100;
+
+
+  }
+  .card-img-top {
+    width: 100%; 
+    height: 200px; 
+    object-fit: cover; 
+}
+
+.carousel {
+  max-width: 600px; 
+  margin: auto; 
+  padding: 10px;
+}
+.carousel-inner img {
+  max-height: 300px; 
+  object-fit: cover; 
+}
+
+.carousel, .my-4 {
+  margin-bottom: 30px; 
+}
+
+.navbar, .carousel {
+  margin-bottom: 20px; 
+}
+
+.navbar, .bg-success {
+  background-color: #28a745 !important; 
+}
+
+.navbar-brand, .nav-link, footer p {
+  color: white !important; 
+}
+
+
+.btn-success {
+  background-color: #28a745;
+  border-color: #28a745;
+}
+
+.btn-success:hover {
+  background-color: #218838;
+  border-color: #1e7e34;
+}
+
+
+.text-success {
+  color: #28a745 !important;
+}
+
+
+footer {
+  background-color: #28a745;  
+  padding: 15px 0;
+  text-align: center;
+  border-top: 3px solid #1e7e34; 
+}
+

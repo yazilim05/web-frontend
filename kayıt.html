@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kayıt Ol</title>
+</head>
+<body>
+    <h1>Kayıt Ol</h1>
+
+    <form method="POST" action="kullanıcı.php">
+        <label for="kullanıcı_adı">Kullanıcı Adı:</label>
+        <input type="text" id="kullanıcı_adı" name="username" placeholder="Kullanıcı Adı" required><br><br>
+
+        <label for="şifre">Şifre:</label>
+        <input type="password" id="şifre" name="password" placeholder="Şifre" required><br><br>
+
+        <button type="submit">Kayıt Ol</button>
+    </form>
+
+    <p>Zaten hesabınız var mı? <a href="login.php">Giriş yapın</a></p>
+</body>
+</html>
