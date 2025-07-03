@@ -1,1 +1,1 @@
-# Yemek tariflerinin gösterildiği, kullanıcıların tarif ekleyebildiği bir web uygulaması.
+# Yemek tariflerinin gösterildiği, kullanıcıların tarif ekleyebildiği eklediği tarifleri eklenen tarifler olarak görebildiği  bir web uygulaması.
